@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Embedded in Rust</title>
+    <link>http://blog.japaric.io/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Embedded in Rust</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/80x15.png&#34; /&gt;&lt;/a&gt;&lt;br/&gt;Jorge Aparicio</copyright>
+    <lastBuildDate>Fri, 28 Apr 2017 22:05:45 -0500</lastBuildDate>
+    
+	<atom:link href="http://blog.japaric.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rust your ARM microcontroller!</title>
+      <link>http://blog.japaric.io/quickstart/</link>
+      <pubDate>Fri, 28 Apr 2017 22:05:45 -0500</pubDate>
+      
+      <guid>http://blog.japaric.io/quickstart/</guid>
+      <description>NOTE Embedded Rust development makes use of the nightly channel. The nightly channel moves fast and breaks things unapologetically. That&amp;rsquo;s why if you want to follow these steps you must use the exact same versions (crates&amp;rsquo; and nightly&amp;rsquo;s) used in these steps. If you want to try the latest and greatest of embeded Rust and use the latest nightly then go grab the latest version of the cortex-m-quickstart template.</description>
+    </item>
+    
+  </channel>
+</rss>
